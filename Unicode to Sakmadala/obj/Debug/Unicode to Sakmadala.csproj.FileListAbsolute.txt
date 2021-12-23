@@ -1,0 +1,36 @@
+G:\D\Visual Studio Development\Unicode to Sakmadala\Unicode to Sakmadala\bin\Debug\Unicode to Sakmadala.exe.config
+G:\D\Visual Studio Development\Unicode to Sakmadala\Unicode to Sakmadala\bin\Debug\Unicode to Sakmadala.exe
+G:\D\Visual Studio Development\Unicode to Sakmadala\Unicode to Sakmadala\bin\Debug\Unicode to Sakmadala.pdb
+G:\D\Visual Studio Development\Unicode to Sakmadala\Unicode to Sakmadala\obj\Debug\Unicode to Sakmadala.csprojResolveAssemblyReference.cache
+G:\D\Visual Studio Development\Unicode to Sakmadala\Unicode to Sakmadala\obj\Debug\Unicode_to_Sakmadala.Form1.resources
+G:\D\Visual Studio Development\Unicode to Sakmadala\Unicode to Sakmadala\obj\Debug\Unicode_to_Sakmadala.Properties.Resources.resources
+G:\D\Visual Studio Development\Unicode to Sakmadala\Unicode to Sakmadala\obj\Debug\Unicode to Sakmadala.csproj.GenerateResource.Cache
+G:\D\Visual Studio Development\Unicode to Sakmadala\Unicode to Sakmadala\obj\Debug\Unicode to Sakmadala.exe
+G:\D\Visual Studio Development\Unicode to Sakmadala\Unicode to Sakmadala\obj\Debug\Unicode to Sakmadala.pdb
+G:\D\Visual Studio Development\Unicode to Sakmadala\Unicode to Sakmadala\bin\Debug\MaterialSkin.dll
+G:\D\Visual Studio Development\Unicode to Sakmadala\Unicode to Sakmadala\bin\Debug\Microsoft.Win32.Primitives.dll
+G:\D\Visual Studio Development\Unicode to Sakmadala\Unicode to Sakmadala\bin\Debug\Newtonsoft.Json.dll
+G:\D\Visual Studio Development\Unicode to Sakmadala\Unicode to Sakmadala\bin\Debug\NiL.JS.dll
+G:\D\Visual Studio Development\Unicode to Sakmadala\Unicode to Sakmadala\bin\Debug\System.AppContext.dll
+G:\D\Visual Studio Development\Unicode to Sakmadala\Unicode to Sakmadala\bin\Debug\System.Console.dll
+G:\D\Visual Studio Development\Unicode to Sakmadala\Unicode to Sakmadala\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+G:\D\Visual Studio Development\Unicode to Sakmadala\Unicode to Sakmadala\bin\Debug\System.Globalization.Calendars.dll
+G:\D\Visual Studio Development\Unicode to Sakmadala\Unicode to Sakmadala\bin\Debug\System.IO.Compression.dll
+G:\D\Visual Studio Development\Unicode to Sakmadala\Unicode to Sakmadala\bin\Debug\System.IO.Compression.ZipFile.dll
+G:\D\Visual Studio Development\Unicode to Sakmadala\Unicode to Sakmadala\bin\Debug\System.IO.FileSystem.dll
+G:\D\Visual Studio Development\Unicode to Sakmadala\Unicode to Sakmadala\bin\Debug\System.IO.FileSystem.Primitives.dll
+G:\D\Visual Studio Development\Unicode to Sakmadala\Unicode to Sakmadala\bin\Debug\System.Net.Http.dll
+G:\D\Visual Studio Development\Unicode to Sakmadala\Unicode to Sakmadala\bin\Debug\System.Net.Sockets.dll
+G:\D\Visual Studio Development\Unicode to Sakmadala\Unicode to Sakmadala\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+G:\D\Visual Studio Development\Unicode to Sakmadala\Unicode to Sakmadala\bin\Debug\System.Security.Cryptography.Algorithms.dll
+G:\D\Visual Studio Development\Unicode to Sakmadala\Unicode to Sakmadala\bin\Debug\System.Security.Cryptography.Encoding.dll
+G:\D\Visual Studio Development\Unicode to Sakmadala\Unicode to Sakmadala\bin\Debug\System.Security.Cryptography.Primitives.dll
+G:\D\Visual Studio Development\Unicode to Sakmadala\Unicode to Sakmadala\bin\Debug\System.Security.Cryptography.X509Certificates.dll
+G:\D\Visual Studio Development\Unicode to Sakmadala\Unicode to Sakmadala\bin\Debug\System.Xml.ReaderWriter.dll
+G:\D\Visual Studio Development\Unicode to Sakmadala\Unicode to Sakmadala\bin\Debug\Newtonsoft.Json.xml
+G:\D\Visual Studio Development\Unicode to Sakmadala\Unicode to Sakmadala\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+G:\D\Visual Studio Development\Unicode to Sakmadala\Unicode to Sakmadala\bin\Debug\Unicode to Sakmadala.exe.manifest
+G:\D\Visual Studio Development\Unicode to Sakmadala\Unicode to Sakmadala\bin\Debug\Unicode to Sakmadala.application
+G:\D\Visual Studio Development\Unicode to Sakmadala\Unicode to Sakmadala\obj\Debug\Unicode to Sakmadala.TrustInfo.xml
+G:\D\Visual Studio Development\Unicode to Sakmadala\Unicode to Sakmadala\obj\Debug\Unicode to Sakmadala.exe.manifest
+G:\D\Visual Studio Development\Unicode to Sakmadala\Unicode to Sakmadala\obj\Debug\Unicode to Sakmadala.application
